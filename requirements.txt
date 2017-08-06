@@ -1,0 +1,5 @@
+django-pylibmc
+django-toolbelt
+psycopg2
+pylibmc
+whitenoise
