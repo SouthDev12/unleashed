@@ -1,4 +1,5 @@
 from django.db import models
+from organizer.models import Tag, Startup
 
 # Create your models here.
 class Post(models.Model):
